@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+captura-*.png
+capturas.cjs
+*.docx
+*.pdf
